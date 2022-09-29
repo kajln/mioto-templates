@@ -2,3 +2,8 @@
 @use 'modules/colors';
 @use 'modules/fonts';
 @use 'modules/typo';
+
+:root {
+	font-size: 16px;
+	font-family: 'SanomatSans';
+}
